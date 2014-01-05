@@ -1,0 +1,24 @@
+{
+  "name": "dex-server",
+  "version": "0.0.1",
+  "description": "The backend for the Dex pokedex app. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/epsilonlabsllc/dex-server.git"
+  },
+  "keywords": [
+    "pokemon",
+    "pokedex",
+    "server",
+    "mysql"
+  ],
+  "author": "Epsilon Labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epsilonlabsllc/dex-server/issues"
+  }
+}
