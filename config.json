@@ -1,0 +1,12 @@
+{
+    "db": {
+        "host": "69.164.221.75",
+        "user": "root",
+        "pass": "root",
+        "name": "dexdb"
+    },
+    "server": {
+        "name": null,
+        "port": 7474
+    }
+}
